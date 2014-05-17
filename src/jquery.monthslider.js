@@ -166,7 +166,6 @@
             }
           }
           
-          debugger;
           // onChange event
           if (options.events.onChange !== undefined) {
             options.events.onChange(e);

@@ -46,7 +46,7 @@ With options it could look like this
 
 ## Options
 
-**None of these options are required **
+None of these options are required.
 
 ~~~javascript
 {
